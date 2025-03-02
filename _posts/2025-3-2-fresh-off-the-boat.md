@@ -19,8 +19,7 @@ categories: 随笔
 
 ## 我的背景
 
-我来自白鹭中中学.
-![白鹭洲书院】（https://th.bing.com/th/id/R.ba22314fe97eea97133c56f9ed09aa3d?rik=3gsBYwNRkVOpQQ&riu=http%3a%2f%2fpic.vjshi.com%2f2021-08-15%2f8f7b4a370fb603e589d29ca2618eac7d%2f00002.jpg%3fx-oss-process%3dstyle%2fwatermark&ehk=L9aA8MKxUsoH3lGK%2f4dPEfXNYqSYf%2b1bDtD71ubGYTU%3d&risl=&pid=ImgRaw&r=0）
+我来自白鹭中中学。
 
 ## 我的技能标签
 
